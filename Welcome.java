@@ -8,6 +8,8 @@ public class Welcome {
 		
 		System.out.println("After new branchx");
 
+		System.out.println("Project done");
+
 	}
 
 }
