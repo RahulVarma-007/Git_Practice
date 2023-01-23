@@ -10,6 +10,8 @@ public class Welcome {
 		
 		System.out.println(error());
 
+		System.out.println("Project done");
+
 	}
 	
 	
