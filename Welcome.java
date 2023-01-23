@@ -14,6 +14,10 @@ public class Welcome {
 		
 		System.out.println("testing pull from github");
 
+		System.out.println("testing push from local rep");
+
+
+
 	}
 	
 	
