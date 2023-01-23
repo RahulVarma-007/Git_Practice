@@ -11,6 +11,8 @@ public class Welcome {
 		System.out.println(error());
 
 		System.out.println("Project done");
+		
+		System.out.println("testing pull from github");
 
 	}
 	
